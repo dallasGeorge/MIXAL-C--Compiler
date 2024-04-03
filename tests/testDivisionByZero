@@ -1,0 +1,9 @@
+{
+    var i : int;
+    var j : int;
+    i=100;
+    print i;
+    print j;
+    i= i/j;
+    print i;
+}

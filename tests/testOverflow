@@ -1,0 +1,9 @@
+{
+    var i : int;
+    var j : int;
+    j=2;
+    for(i=2; i<1000; i=i+1){
+        j*=i;
+        print j;
+    }
+}

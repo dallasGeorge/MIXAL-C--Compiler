@@ -1,0 +1,10 @@
+{ 
+    var num1 : int;
+    var num2 : int;
+    var result : int;
+    var waste : int;
+    num1 = -10;
+    num2 = 3;
+    result = -(num1 + (num2 * -128) / 16 - 1);
+    print result;
+}
